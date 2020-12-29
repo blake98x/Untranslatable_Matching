@@ -1,2 +1,4 @@
 # Untranslatable_Matching
-Given a select range of foreign words that are deemed "untranslatable" into English, take in a range of texts and determine whether these words exist in some form in these texts.
+This project was inspired by a personal fascination of "untranslatable" words -- put simply, words that comprise a particular meaning in one language but is not concisely represented in another langauge (in this case, English). 
+
+At this point, the plan is to hone this project on particular words, for which personal friends can verify the accuracy of the proposed labelling model. 
